@@ -483,11 +483,6 @@ backend/, frontend/: Docker source
 documentation: README-part1.md, README-part2.md, README-complete.md
 ```
 
-## Notes
-
-* Requires working EKS IAM permissions or functional Minikube setup
-* Contact instructor for cluster resolution
-
 ## Final Steps
 
 ```bash
