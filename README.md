@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a task-manager application developed using Helm on Kubernetes. It includes a backend API, a frontend UI, and a MongoDB database. The project evolved from a basic Helm chart to multiple services, with Docker images built from a `docker-compose.yml`. Deployment attempts on EKS and Minikube failed due to authentication and configuration issues, leading to a submission with a screencast and documentation.
+This project is a task-manager application developed using Helm on Kubernetes. It includes a backend API, a frontend UI, and a MongoDB database. The project evolved from a basic Helm chart to multiple services, with Docker images built from a `docker-compose.yml`.
 
 ## Setup Instructions
 
